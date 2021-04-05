@@ -1,8 +1,8 @@
 {
   "name": "name-it",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "http://Janvi-Thakkar.github.io/NameIt/",
+  "private": false,
+  "homepage": "http://Janvi-Thakkar.github.io/NameIt",
   "dependencies": {
     "@rstacruz/startup-name-generator": "^0.3.0",
     "cra-template": "1.1.0",
