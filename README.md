@@ -1,4 +1,4 @@
-![CI/CD](https://github.com/janvi-thakkar/NameIt/workflows/CI/CD/badge.svg)
+![CI/CD](https://github.com/Janvi-Thakkar/NameIt/workflows/CI/CD/badge.svg)
 
 Here I present NameIt..
 
