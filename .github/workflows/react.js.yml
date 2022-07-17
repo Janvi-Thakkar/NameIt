@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     strategy:
       matrix:
@@ -27,9 +27,6 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
         
-    - name: Access Grant
-      run: chmod +x node_modules/.bin/react-scripts
-
     - name: Install dependencies
       run: npm install
     
