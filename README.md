@@ -1,1 +1,3 @@
-# NameIt
+---
+permalink: /index.js
+---
