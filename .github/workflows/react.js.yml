@@ -27,6 +27,9 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
         
+    - name: save dependencies
+      run: npm install react-scripts --save
+      
     - name: Install dependencies
       run: npm install
     
